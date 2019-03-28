@@ -14,7 +14,10 @@ import {
 //'Shake or press menu button for dev menu',
 //});
 
+let signH ='';
+
 export default class Home extends React.Component {
+
 
     constructor(props){
         super(props);
@@ -22,12 +25,16 @@ export default class Home extends React.Component {
             city: "",
             weather:"",
             temperature:"",
-            backgroundImage: require('./src/background.png')
+            backgroundImage: require('./src/background.png'),
+            dailyhoroscope:"",
+            articles:"",
         }
     }
 
     componentDidMount(){
         this.fetchCurrentLocationThenRequestWeatherData();
+        this.fetchAllHoroscope();
+        this.fetchNews();
     }
 
     /*render() {
@@ -51,10 +58,16 @@ export default class Home extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-                <View style={{height: 200, backgroundColor: 'lightgray', borderRadius : 20}} >
+                <View style={styles.box} >
                     <Text style={styles.welcome}>Ville = {this.state.city}</Text>
                     <Text style={styles.welcome}>Temperature = {this.state.temperature} °C</Text>
                     <Text style={styles.welcome}>Condition = {this.state.weather}</Text>
+                </View>
+                <View style={styles.box} >
+                    <Text style={styles.welcome}>Horoscope = {this.state.dailyhoroscope}</Text>
+                </View>
+                <View style={styles.box} >
+                    <Text style={styles.welcome}>Actualités = {this.state.articles}</Text>
                 </View>
             </View>
         );
@@ -85,6 +98,41 @@ export default class Home extends React.Component {
             { timeout: 20000, maximumAge: 1000 }
         );
     }
+
+
+    fetchAllHoroscope() {
+
+        signH = 'Taurus';
+        let apiUrlHoroscope = "https://www.horoscopes-and-astrology.com/json";
+        fetch(apiUrlHoroscope)
+            .then(response => response.json())
+            .then(responseJson => {
+                console.log(responseJson);
+                console.log(responseJson.dailyhoroscope)
+                this.setState({
+                    dailyhoroscope: responseJson.dailyhoroscope[signH]
+                });
+            });
+    }
+
+    fetchNews(){
+        var url = 'https://newsapi.org/v2/top-headlines?' +
+            'country=fr&' +
+            'apiKey=3068346aa29c4bc5af886f4f064ec22a';
+        var req = new Request(url);
+        fetch(req)
+            /*.then(function(response) {
+                console.log(response.json());
+            })*/
+            .then(response => response.json())
+            .then(responseJson => {
+                console.log(responseJson);
+                console.log(responseJson.articles);
+                this.setState({
+                    articles: responseJson.articles[0].title + ' ' + responseJson.articles[0].content
+                });
+            });
+    }
 }
 
 const styles = StyleSheet.create({
@@ -105,5 +153,11 @@ const styles = StyleSheet.create({
         color: '#333333',
         marginBottom: 5,
     },
+    box: {
+        height: 200,
+        backgroundColor: 'lightgray',
+        borderRadius : 20,
+        margin: 1,
+    }
 });
 

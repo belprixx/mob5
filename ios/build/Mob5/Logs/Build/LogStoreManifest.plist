@@ -6,6 +6,35 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>49DE7300-BC3F-4790-B37F-79799FB4E1C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49DE7300-BC3F-4790-B37F-79799FB4E1C7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mob5 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mob5</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Mob5 with scheme Mob5 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575452427.40459394</real>
+			<key>timeStoppedRecording</key>
+			<real>575452444.95831895</real>
+			<key>title</key>
+			<string>Building project Mob5 with scheme Mob5 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>49DE7300-BC3F-4790-B37F-79799FB4E1C7</string>
+		</dict>
 		<key>70C8BC97-BD1F-4FFF-B7C3-54BD164B0F86</key>
 		<dict>
 			<key>className</key>

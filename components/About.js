@@ -6,7 +6,7 @@ export default class About extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text style={styles.welcome}>A propos de TEST</Text>
+                <Text style={styles.welcome}>Powered by https://newsapi.org</Text>
             </View>
         );
     }

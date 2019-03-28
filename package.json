@@ -7,9 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "moment": "^2.24.0",
     "react": "16.8.3",
+    "react-axios": "^2.0.3",
+    "react-moment": "^0.8.4",
     "react-native": "0.59.1",
     "react-native-calendars": "^1.22.0",
+    "react-native-weather-api": "^2.0.0",
     "react-navigation": "^3.3.2"
   },
   "devDependencies": {
@@ -18,7 +22,11 @@
     "babel-jest": "^24.5.0",
     "jest": "^24.5.0",
     "metro-react-native-babel-preset": "^0.53.1",
-    "react-test-renderer": "16.8.3"
+    "react-test-renderer": "16.8.3",
+    "react-axios": "2.0.3",
+    "moment": "2.24.0,",
+    "react-moment": "0.8.4",
+    "axios": "0.18.0"
   },
   "jest": {
     "preset": "react-native"

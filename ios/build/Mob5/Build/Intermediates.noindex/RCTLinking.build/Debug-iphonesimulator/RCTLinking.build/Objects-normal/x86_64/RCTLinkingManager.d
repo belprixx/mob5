@@ -1,0 +1,14 @@
+dependencies: \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.m \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

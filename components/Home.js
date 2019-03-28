@@ -7,12 +7,6 @@ import {
     ImageBackground
 } from 'react-native';
 
-//const instructions = Platform.select({
-//ios: 'Press Cmd+R to reload,\n' +
-//'Cmd+D or shake for dev menu',
-//android: 'Double tap R on your keyboard to reload,\n' +
-//'Shake or press menu button for dev menu',
-//});
 
 let signH ='';
 
@@ -37,22 +31,6 @@ export default class Home extends React.Component {
         this.fetchNews();
     }
 
-    /*render() {
-        return (
-            <ImageBackground style={{flex: 1, alignItems: 'center'}}
-                             source={this.state.backgroundImage}>
-                <Text style={{marginTop: 100, fontWeight: "500", fontSize: 35, color: 'white', backgroundColor: 'transparent'}}>
-                    {this.state.city}
-                </Text>
-                <Text style={{marginTop: 10, fontWeight: "normal", fontSize: 17, color: 'white', backgroundColor: 'transparent'}}>
-                    {this.state.weather}
-                </Text>
-                <Text style={{marginTop: 10, fontWeight: "normal", fontSize: 75, color: 'white', backgroundColor: 'transparent'}}>
-                    {this.state.temperature}
-                </Text>
-            </ImageBackground>
-        );
-    }*/
 
 
     render() {

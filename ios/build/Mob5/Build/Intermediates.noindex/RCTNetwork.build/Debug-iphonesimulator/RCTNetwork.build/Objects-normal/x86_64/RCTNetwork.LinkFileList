@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworkTask.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTFileRequestHandler.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTDataRequestHandler.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetInfo.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworking.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTHTTPRequestHandler.o
+=======
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworkTask.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTFileRequestHandler.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTDataRequestHandler.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetInfo.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTNetworking.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/Objects-normal/x86_64/RCTHTTPRequestHandler.o
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

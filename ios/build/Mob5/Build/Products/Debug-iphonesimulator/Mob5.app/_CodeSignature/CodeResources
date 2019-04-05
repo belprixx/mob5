@@ -6,11 +6,19 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
+<<<<<<< HEAD
 		GSuQxCliVTY/dRnA1wv57aIcuSw=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		/B/kyxdjyxQtWuruEz4dD4hbzpA=
+=======
+		qUpMxzA5+/2ExSb7QucTrnWlt+Q=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		+fOwTXOs2KEwn/lf2Ro+NTZ1xnk=
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -23,17 +31,29 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			GSuQxCliVTY/dRnA1wv57aIcuSw=
 			</data>
 			<key>hash2</key>
 			<data>
 			Yd/TeATNfgvysbeegAM+DFlaQhUyvAkVP0hCwRkdcKI=
+=======
+			qUpMxzA5+/2ExSb7QucTrnWlt+Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			KiM0IcZ8dsIxZwpA75dz5Xnhchd3RVOjRfT+5AfXruA=
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
 			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
+<<<<<<< HEAD
 		<key>^.*</key>
+=======
+		<key>^</key>
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -64,6 +84,14 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
+<<<<<<< HEAD
+=======
+		<key>^</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
@@ -71,6 +99,16 @@
 			<key>weight</key>
 			<real>2000</real>
 		</dict>
+<<<<<<< HEAD
+=======
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
 		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
@@ -106,6 +144,16 @@
 			<key>weight</key>
 			<real>20</real>
 		</dict>
+<<<<<<< HEAD
+=======
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>

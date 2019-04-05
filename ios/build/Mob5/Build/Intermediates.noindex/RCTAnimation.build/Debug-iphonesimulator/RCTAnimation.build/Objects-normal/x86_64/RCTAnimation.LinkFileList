@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.o
@@ -18,3 +19,25 @@
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDecayAnimation.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSubtractionAnimatedNode.o
+=======
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTValueAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTModuloAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDiffClampAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTEventAnimation.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTStyleAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimationUtils.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedModule.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTMultiplicationAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTPropsAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTrackingAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTInterpolationAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAdditionAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDivisionAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDecayAnimation.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSubtractionAnimatedNode.o
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

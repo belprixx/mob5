@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSBigString.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSIndexedRAMBundle.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/ModuleRegistry.o
@@ -9,3 +10,16 @@
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/Instance.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/NativeToJsBridge.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/SampleCxxModule.o
+=======
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSBigString.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSIndexedRAMBundle.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/ModuleRegistry.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/RAMBundleRegistry.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/CxxNativeModule.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/ReactMarker.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/JSBundleType.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/MethodCall.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/Instance.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/NativeToJsBridge.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/Objects-normal/x86_64/SampleCxxModule.o
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

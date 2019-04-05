@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/bignum-dtoa.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/bignum.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/cached-powers.o
@@ -6,3 +7,13 @@
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/fast-dtoa.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/fixed-dtoa.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/strtod.o
+=======
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/bignum-dtoa.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/bignum.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/cached-powers.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/diy-fp.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/double-conversion.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/fast-dtoa.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/fixed-dtoa.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/Objects-normal/x86_64/strtod.o
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

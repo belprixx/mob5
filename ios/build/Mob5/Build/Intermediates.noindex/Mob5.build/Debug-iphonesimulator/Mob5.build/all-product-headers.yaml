@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 {"case-sensitive":"false","roots":[],"version":0}
+=======
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+
+  ]
+}
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

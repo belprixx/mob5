@@ -1,4 +1,5 @@
 dependencies: \
+<<<<<<< HEAD
   /Users/samuel/Desktop/mob5/node_modules/react-native/React/Views/RCTModalHostViewController.m \
   /Users/samuel/Desktop/mob5/node_modules/react-native/React/Views/RCTModalHostViewController.h \
   /Users/samuel/Desktop/mob5/node_modules/react-native/React/Base/RCTLog.h \
@@ -29,3 +30,33 @@ dependencies: \
   /Users/samuel/Desktop/mob5/node_modules/react-native/React/Views/UIView+React.h \
   /Users/samuel/Desktop/mob5/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/samuel/Desktop/mob5/node_modules/react-native/React/Views/RCTView.h
+=======
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTModalHostViewController.m \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTModalHostViewController.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTModalHostView.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTModalHostViewManager.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/React/Views/RCTView.h
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

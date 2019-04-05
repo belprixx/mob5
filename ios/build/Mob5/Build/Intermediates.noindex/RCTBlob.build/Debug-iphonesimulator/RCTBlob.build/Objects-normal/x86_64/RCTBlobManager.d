@@ -1,4 +1,5 @@
 dependencies: \
+<<<<<<< HEAD
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
@@ -26,3 +27,32 @@ dependencies: \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h
+=======
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

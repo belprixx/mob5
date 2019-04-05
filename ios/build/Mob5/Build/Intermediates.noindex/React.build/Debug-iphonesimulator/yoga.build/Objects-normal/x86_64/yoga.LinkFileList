@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGMarker.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGValue.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGConfig.o
@@ -8,3 +9,15 @@
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/Utils.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGLayout.o
 /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGNodePrint.o
+=======
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGMarker.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGValue.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGConfig.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/Yoga.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGStyle.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGNode.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGEnums.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/Utils.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGLayout.o
+/Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/Objects-normal/x86_64/YGNodePrint.o
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

@@ -1,4 +1,5 @@
 dependencies: \
+<<<<<<< HEAD
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.m \
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
@@ -17,3 +18,23 @@ dependencies: \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h
+=======
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.m \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h
+>>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98

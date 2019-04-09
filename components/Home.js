@@ -4,11 +4,24 @@ import {
     StyleSheet,
     Text,
     View,
-    ImageBackground
+    ScrollView,
+    ImageBackground,
+    WebView,
+    FlatList
 } from 'react-native';
+import MyWebView from 'react-native-webview-autoheight';
+import {  Button, Card, Divider } from 'react-native-elements';
+import HTML from 'react-native-render-html';
+
+import Article from './src/Article';
+
+
+//const customStyle = "<style>* {max-width: 100%;} body {font-family: sans-serif;} h1 {color: red;}</style>";
+//const htmlContent = "<h1>This is title</h1><p>Throw your entire HTML here</p>";
 
 
 let signH ='';
+let htmlContent;
 
 export default class Home extends React.Component {
 
@@ -35,19 +48,29 @@ export default class Home extends React.Component {
 
     render() {
         return (
-            <View style={styles.container}>
-                <View style={styles.box} >
-                    <Text style={styles.welcome}>Ville = {this.state.city}</Text>
+            <ScrollView contentContainerStyle={styles.container}>
+                <Card style={styles.boxes} >
+                    <Text style={styles.welcome}>{this.state.city}</Text>
                     <Text style={styles.welcome}>Temperature = {this.state.temperature} °C</Text>
                     <Text style={styles.welcome}>Condition = {this.state.weather}</Text>
-                </View>
-                <View style={styles.box} >
-                    <Text style={styles.welcome}>Horoscope = {this.state.dailyhoroscope}</Text>
-                </View>
-                <View style={styles.box} >
-                    <Text style={styles.welcome}>Actualités = {this.state.articles}</Text>
-                </View>
-            </View>
+                </Card>
+                <Card style={styles.boxes} >
+                    <Text>Horoscope</Text>
+                    <HTML html={htmlContent} />
+                </Card>
+
+
+                <FlatList
+                    style={styles.listNews}
+                    data={this.state.articles}
+                    renderItem={({ item }) => <Article article={item} />}
+                    keyExtractor={item => item.url}
+                />
+
+
+            </ScrollView>
+
+
         );
     }
 
@@ -86,22 +109,45 @@ export default class Home extends React.Component {
             .then(response => response.json())
             .then(responseJson => {
                 console.log(responseJson);
-                console.log(responseJson.dailyhoroscope)
+                console.log(responseJson.dailyhoroscope);
                 this.setState({
                     dailyhoroscope: responseJson.dailyhoroscope[signH]
                 });
+                htmlContent = `<div>` + responseJson.dailyhoroscope[signH] + `</div>`;
+                console.log(htmlContent);
             });
     }
 
+
     fetchNews(){
+
         var url = 'https://newsapi.org/v2/top-headlines?' +
             'country=fr&' +
             'apiKey=3068346aa29c4bc5af886f4f064ec22a';
         var req = new Request(url);
         fetch(req)
-            /*.then(function(response) {
-                console.log(response.json());
-            })*/
+            .then(response => response.json())
+            .then(responseJson => {
+                console.log(responseJson);
+                console.log(responseJson.articles);
+                this.setState({
+                    articles: responseJson.articles
+                });
+            });
+
+    }
+
+
+
+
+
+
+    /*fetchNews(){
+        var url = 'https://newsapi.org/v2/top-headlines?' +
+            'country=fr&' +
+            'apiKey=3068346aa29c4bc5af886f4f064ec22a';
+        var req = new Request(url);
+        fetch(req)
             .then(response => response.json())
             .then(responseJson => {
                 console.log(responseJson);
@@ -110,8 +156,10 @@ export default class Home extends React.Component {
                     articles: responseJson.articles[0].title + ' ' + responseJson.articles[0].content
                 });
             });
-    }
+    }*/
 }
+
+
 
 const styles = StyleSheet.create({
     container: {
@@ -120,11 +168,17 @@ const styles = StyleSheet.create({
         backgroundColor: '#F5FCFF',
         flexDirection: 'column',
         alignItems: 'stretch',
+        marginTop: 25,
     },
     welcome: {
         fontSize: 20,
         textAlign: 'center',
         margin: 10,
+    },
+    htmlHorscope: {
+        backgroundColor: 'lightgray',
+        borderRadius : 20,
+        margin: 1,
     },
     instructions: {
         textAlign: 'center',
@@ -136,6 +190,15 @@ const styles = StyleSheet.create({
         backgroundColor: 'lightgray',
         borderRadius : 20,
         margin: 1,
+    },
+    boxes: {
+        height: 200,
+        backgroundColor: '#ffffff',
+        borderRadius : 20,
+        margin: 1,
+    },
+    listNews:{
+        marginTop:10,
     }
 });
 

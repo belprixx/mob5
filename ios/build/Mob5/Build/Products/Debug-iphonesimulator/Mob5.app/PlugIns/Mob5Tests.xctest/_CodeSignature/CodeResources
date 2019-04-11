@@ -7,10 +7,14 @@
 		<key>Info.plist</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		Pm/eMelOIR4jPj6v+3UDUUikUek=
 =======
 		zW64fFSSDfVbELrxNI+z4pm8UNU=
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+		Pm/eMelOIR4jPj6v+3UDUUikUek=
+>>>>>>> up
 		</data>
 	</dict>
 	<key>files2</key>
@@ -18,10 +22,14 @@
 	<key>rules</key>
 	<dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>^.*</key>
 =======
 		<key>^</key>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+		<key>^.*</key>
+>>>>>>> up
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -53,6 +61,7 @@
 			<real>11</real>
 		</dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		<key>^</key>
 		<dict>
@@ -60,6 +69,8 @@
 			<real>20</real>
 		</dict>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
@@ -67,6 +78,7 @@
 			<key>weight</key>
 			<real>2000</real>
 		</dict>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
@@ -77,6 +89,8 @@
 			<real>10</real>
 		</dict>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
@@ -113,6 +127,7 @@
 			<real>20</real>
 		</dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		<key>^[^/]+$</key>
 		<dict>
@@ -122,6 +137,8 @@
 			<real>10</real>
 		</dict>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>

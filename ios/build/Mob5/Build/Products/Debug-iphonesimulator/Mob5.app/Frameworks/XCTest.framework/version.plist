@@ -10,11 +10,15 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> up
 	<string>14490.71</string>
 	<key>ProjectName</key>
 	<string>XCTest_Sim</string>
 	<key>SourceVersion</key>
 	<string>14490071000000000</string>
+<<<<<<< HEAD
 =======
 	<string>14460.20</string>
 	<key>ProjectName</key>
@@ -22,5 +26,7 @@
 	<key>SourceVersion</key>
 	<string>14460020000000000</string>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 </dict>
 </plist>

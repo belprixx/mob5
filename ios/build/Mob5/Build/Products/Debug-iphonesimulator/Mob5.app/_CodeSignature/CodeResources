@@ -7,11 +7,16 @@
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		GSuQxCliVTY/dRnA1wv57aIcuSw=
+=======
+		jjhhPyNvR2SLABwi1NT2OcL08FQ=
+>>>>>>> up
 		</data>
 		<key>Info.plist</key>
 		<data>
 		/B/kyxdjyxQtWuruEz4dD4hbzpA=
+<<<<<<< HEAD
 =======
 		qUpMxzA5+/2ExSb7QucTrnWlt+Q=
 		</data>
@@ -19,6 +24,8 @@
 		<data>
 		+fOwTXOs2KEwn/lf2Ro+NTZ1xnk=
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -32,6 +39,7 @@
 			<key>hash</key>
 			<data>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			GSuQxCliVTY/dRnA1wv57aIcuSw=
 			</data>
 			<key>hash2</key>
@@ -44,16 +52,27 @@
 			<data>
 			KiM0IcZ8dsIxZwpA75dz5Xnhchd3RVOjRfT+5AfXruA=
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+			jjhhPyNvR2SLABwi1NT2OcL08FQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			9owD1zOsQtUGvEZ2gsMmb/qItjaaAgd4dZ97wPToyek=
+>>>>>>> up
 			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>^.*</key>
 =======
 		<key>^</key>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+		<key>^.*</key>
+>>>>>>> up
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -85,6 +104,7 @@
 			<real>11</real>
 		</dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		<key>^</key>
 		<dict>
@@ -92,6 +112,8 @@
 			<real>20</real>
 		</dict>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
@@ -99,6 +121,7 @@
 			<key>weight</key>
 			<real>2000</real>
 		</dict>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
@@ -109,6 +132,8 @@
 			<real>10</real>
 		</dict>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
@@ -145,6 +170,7 @@
 			<real>20</real>
 		</dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		<key>^[^/]+$</key>
 		<dict>
@@ -154,6 +180,8 @@
 			<real>10</real>
 		</dict>
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+>>>>>>> up
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>

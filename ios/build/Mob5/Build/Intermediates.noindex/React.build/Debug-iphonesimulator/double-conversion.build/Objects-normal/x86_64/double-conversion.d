@@ -1,5 +1,6 @@
 dependencies: \
 <<<<<<< HEAD
+<<<<<<< HEAD
   /Users/samuel/Desktop/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.cc \
   /Users/samuel/Desktop/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.h \
   /Users/samuel/Desktop/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/utils.h \
@@ -20,3 +21,14 @@ dependencies: \
   /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.h \
   /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/strtod.h
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.cc \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/double-conversion.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/utils.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/bignum-dtoa.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/fast-dtoa.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/fixed-dtoa.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/ieee.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/double-conversion-1.1.6/src/strtod.h
+>>>>>>> up

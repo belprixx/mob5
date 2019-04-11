@@ -1,5 +1,6 @@
 dependencies: \
 <<<<<<< HEAD
+<<<<<<< HEAD
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.m \
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
@@ -16,3 +17,12 @@ dependencies: \
   /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
   /Users/bayard/Desktop/ETNA/MOB5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.m \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h
+>>>>>>> up

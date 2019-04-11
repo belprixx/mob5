@@ -1,5 +1,6 @@
 dependencies: \
 <<<<<<< HEAD
+<<<<<<< HEAD
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
   /Users/samuel/Desktop/mob5/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.h \
   /Users/samuel/Desktop/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
@@ -80,3 +81,44 @@ dependencies: \
   /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
   /Users/bayard/Desktop/ETNA/MOB5/mob5/node_modules/react-native/Libraries/Text/Text/RCTTextView.h
 >>>>>>> 0e8802e4583ee0dbcb98e6ddfeb7a057a7ef5a98
+=======
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/ios/build/Mob5/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/Libraries/Text/Text/RCTTextView.h
+>>>>>>> up

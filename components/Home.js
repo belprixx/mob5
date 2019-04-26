@@ -47,9 +47,8 @@ export default class Home extends React.Component {
                 <View style={styles.box} >
                     <Text style={styles.welcome}>Actualités = {this.state.articles}</Text>
                 </View>
-        );
-    }
-
+            );
+        }
 
     fetchCurrentLocationThenRequestWeatherData() {
         navigator.geolocation.getCurrentPosition(

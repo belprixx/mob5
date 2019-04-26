@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/theo/Documents/ecole/rep_rendu/Mob5/mob5/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
